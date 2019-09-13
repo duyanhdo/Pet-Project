@@ -1,1 +1,1 @@
-# [Preview Table](https://duyanhdo.github.io/Pet-Project/Form/)
+# [Preview Table](https://duyanhdo.github.io/Pet-Project/Table/)
